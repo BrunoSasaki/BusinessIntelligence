@@ -19,7 +19,7 @@ Stage Fato Pedidos
 
 3) A partir dos stages é criado o Data Warehouse, com chaves específicas criadas para cada tabela Dimensão e Fato. 
 
-4) Carregamento das tabelas Dimensão e Fato no DW.
+4) Carregamento das tabelas Dimensão e Fato no DW e criação de uma nova Dimensão Calendário. 
 
 5) Lookup das tabelas e criação de tabelas de Log.
 
@@ -35,9 +35,14 @@ Stage Dimensão Cliente
 
 ![stg1](https://user-images.githubusercontent.com/109915092/213242116-ac9ae94e-08bf-4786-978a-6b39a6a7abf0.png)
 
-Stage Dimensão Detalhe Pedidos
+Stage Dimensão Detalhe do Pedidos
 
 ![stg2](https://user-images.githubusercontent.com/109915092/213245972-b1ae474b-5792-4adf-9bba-8b6292ee500f.png)
+
+Stage Dimensão Pedidos
+
+![stg3](https://user-images.githubusercontent.com/109915092/213252561-7948b9af-25e6-499d-b374-637a1cff7f58.png)
+
 
 
 
