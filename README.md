@@ -15,7 +15,7 @@ Stage da Tabela Fato:
 
 Stage Fato Pedidos
 
-2) Envio dos dados semi tratados das stages para o Banco de dados nesse exemplo chamado de 'stg' no HeidiSQL.
+2) Job das Stages para envio dos dados semi tratados das stages para o Banco de dados nesse exemplo chamado de 'stg' no HeidiSQL.
 
 3) A partir dos stages é criado o Data Warehouse, com chaves específicas criadas para cada tabela Dimensão e Fato. 
 
@@ -29,6 +29,10 @@ Stage Fato Pedidos
 
 8) Conexão com Pentaho Server e gerar agendamento da carga incremental. 
 
+
+
+
+1. Stage Area
 
 
 Stage Dimensão Cliente
@@ -53,3 +57,6 @@ Stage Fato Pedidos
 ![stg5](https://user-images.githubusercontent.com/109915092/213253417-cd081ac5-5b1e-4240-97d2-f322d5d959d5.png)
 
 
+2. Job das Stages 
+
+![Job Stages](https://user-images.githubusercontent.com/109915092/213254997-ab174490-d786-4a31-8800-b31423129c8f.png)
