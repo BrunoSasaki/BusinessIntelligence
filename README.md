@@ -1,8 +1,8 @@
 # Business Intelligence - ETL e Carga Incremental com Pentaho Data Integration e Pentaho Server
 
-Projeto Desenvolvido no Pentaho Data Integration de ETL e carga. Onde foi criado stages, dimensões, fato, data warehouse e um Job principal para executar a carga incremental via Pentaho Server .
+Projeto Desenvolvido no Pentaho Data Integration de ETL e carga. Onde foi criado stages, dimensões, fato, data warehouse e um Job principal para executar a carga incremental via Pentaho Server.
 
-O projeto se inicia através da organização primeiramente da Stage Area.
+1) O projeto se inicia através da organização primeiramente da Stage Area.
 
 Stage das Tabelas Dimensões:
 
@@ -14,6 +14,20 @@ Stage das Tabelas Dimensões:
 Stage da Tabela Fato:
 
 Stage Fato Pedidos
+
+2) Envio dos dados semi tratados das stages para o Banco de dados nesse exemplo chamado de 'stg' no HeidiSQL.
+
+3) A partir dos stages é criado o Data Warehouse, com chaves específicas criadas para cada tabela Dimensão e Fato. 
+
+4) Carregamento das tabelas Dimensão e Fato no DW.
+
+5) Lookup das tabelas e criação de tabelas de Log.
+
+6) Criação da carga incremental nesse exemplo realizado com Merge diff, atualizando somente os dados alterados e mantendo o restante dos dados iguais. 
+
+7) Criação de um Job principal para executar todas as tranformações e cargas de forma otimizada.
+
+8) Conexão com Pentaho Server e gerar agendamento da carga incremental. 
 
 
 
