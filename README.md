@@ -31,11 +31,13 @@ Stage Fato Pedidos
 
 
 
-1) Stage Dimensão Cliente
+1) 
+
+a) Stage Dimensão Cliente
 
 ![stg1](https://user-images.githubusercontent.com/109915092/213242116-ac9ae94e-08bf-4786-978a-6b39a6a7abf0.png)
 
-2) Stage Dimensão Detalhe Pedidos
+b) Stage Dimensão Detalhe Pedidos
 
 ![stg2](https://user-images.githubusercontent.com/109915092/213245972-b1ae474b-5792-4adf-9bba-8b6292ee500f.png)
 
