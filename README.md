@@ -44,5 +44,12 @@ Stage Dimensão Pedidos
 ![stg3](https://user-images.githubusercontent.com/109915092/213252561-7948b9af-25e6-499d-b374-637a1cff7f58.png)
 
 
+Stage Dimensão Produtos
+
+![stg4](https://user-images.githubusercontent.com/109915092/213253037-ce48dc17-337a-4d74-b550-7e99555693c8.png)
+
+Stage Fato Pedidos
+
+![stg5](https://user-images.githubusercontent.com/109915092/213253417-cd081ac5-5b1e-4240-97d2-f322d5d959d5.png)
 
 
