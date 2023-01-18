@@ -31,7 +31,7 @@ Stage Fato Pedidos
 
 
 
-1) 
+1.
 
 a) Stage Dimensão Cliente
 
