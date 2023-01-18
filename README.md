@@ -57,9 +57,8 @@ Stage Fato Pedidos
 ![stg5](https://user-images.githubusercontent.com/109915092/213253417-cd081ac5-5b1e-4240-97d2-f322d5d959d5.png)
 
 
-2. Job das Stages 
+2. Job das Stages carregado no SQL
 
 ![Job Stages](https://user-images.githubusercontent.com/109915092/213254997-ab174490-d786-4a31-8800-b31423129c8f.png)
 
-3. 
 ![Heidisql](https://user-images.githubusercontent.com/109915092/213309438-59d960a6-65a0-4595-9031-9a6e57330bab.png)
