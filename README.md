@@ -17,7 +17,7 @@ Stage Fato Pedidos
 
 2) Job das Stages para envio dos dados semi tratados das stages para o Banco de dados nesse exemplo chamado de 'stg' no HeidiSQL.
 
-3) A partir dos stages é criado o Data Warehouse, com chaves específicas criadas para cada tabela Dimensão e Fato. 
+3) A partir dos stages é criado o Data Warehouse, com chaves específicas criadas para cada tabela Dimensão e Fato carregado a partir de um 2 Job's. 
 
 4) Carregamento das tabelas Dimensão e Fato no DW e criação de uma nova Dimensão Calendário. 
 
