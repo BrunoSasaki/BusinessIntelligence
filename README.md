@@ -62,3 +62,20 @@ Stage Fato Pedidos
 ![Job Stages](https://user-images.githubusercontent.com/109915092/213254997-ab174490-d786-4a31-8800-b31423129c8f.png)
 
 ![Heidisql](https://user-images.githubusercontent.com/109915092/213309438-59d960a6-65a0-4595-9031-9a6e57330bab.png)
+
+
+3. Criação das Tabelas Dimensão e Fato e posteriormente o carregamento dos dados no Dataware House 
+
+Dimensão Cliente
+
+![dim cliente](https://user-images.githubusercontent.com/109915092/213872209-b607883e-64b4-400a-985a-a918ba4358c0.png)
+
+Dimensão Pedidos
+
+![dim pedidos](https://user-images.githubusercontent.com/109915092/213872309-03cb566a-7bc3-4f11-acf7-072373381e23.png)
+
+Dimensão Produtos
+
+![dim produtos](https://user-images.githubusercontent.com/109915092/213872402-bf760b56-ff63-4a8a-99cd-258a83b5b69c.png)
+
+
