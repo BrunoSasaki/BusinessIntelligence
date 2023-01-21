@@ -85,3 +85,8 @@ Criação Dimensão Calendário
 Fato Pedidos
 
 ![fato pedidos](https://user-images.githubusercontent.com/109915092/213872678-c3f44a9f-a911-4ebe-852d-76be01071203.png)
+
+Job para carregamento das Tabelas Dimensões no DW
+
+![job dimensoes](https://user-images.githubusercontent.com/109915092/213872917-d7b37699-653f-47bd-8f91-a1cf8b70f577.png)
+
