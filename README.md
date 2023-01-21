@@ -78,4 +78,10 @@ Dimensão Produtos
 
 ![dim produtos](https://user-images.githubusercontent.com/109915092/213872402-bf760b56-ff63-4a8a-99cd-258a83b5b69c.png)
 
+Criação Dimensão Calendário 
 
+![dim calendario](https://user-images.githubusercontent.com/109915092/213872572-d8685868-96ed-4946-a9e4-617e68e4be46.png)
+
+Fato Pedidos
+
+![fato pedidos](https://user-images.githubusercontent.com/109915092/213872678-c3f44a9f-a911-4ebe-852d-76be01071203.png)
