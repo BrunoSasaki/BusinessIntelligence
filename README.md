@@ -96,3 +96,8 @@ Job para carregamento da Tabela Fato no DW
 
 ![image](https://user-images.githubusercontent.com/109915092/213873157-94caed47-76ad-4e98-981e-e08aff3c628a.png)
 
+Job Principal executando de forma automatizada todas as etapas desenvolvidas até o momento
+
+![job principal](https://user-images.githubusercontent.com/109915092/213875384-562c4138-4d6f-4439-81ba-57eaf1a3c34f.png)
+
+
