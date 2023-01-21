@@ -101,3 +101,12 @@ Job Principal executando de forma automatizada todas as etapas desenvolvidas at√
 ![job principal](https://user-images.githubusercontent.com/109915092/213875384-562c4138-4d6f-4439-81ba-57eaf1a3c34f.png)
 
 
+Conex√£o com Pentaho Server
+
+![conexao pentaho server](https://user-images.githubusercontent.com/109915092/213875552-ff36ad53-79f6-4e9d-970c-6f3101a09013.png)
+
+![concetado pentaho server](https://user-images.githubusercontent.com/109915092/213875619-231a6c49-7dae-48c7-804d-68725f47cf11.png)
+
+![navegador pentaho server](https://user-images.githubusercontent.com/109915092/213875686-4e66e05f-950d-4650-a14b-f52b3a3fda63.png)
+
+
