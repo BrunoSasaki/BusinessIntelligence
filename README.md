@@ -110,3 +110,12 @@ Conexão com Pentaho Server
 ![navegador pentaho server](https://user-images.githubusercontent.com/109915092/213875686-4e66e05f-950d-4650-a14b-f52b3a3fda63.png)
 
 
+ Job Principal conectado ao Pentaho Server
+ 
+ ![job principal pentaho server](https://user-images.githubusercontent.com/109915092/213876015-3f29d4e3-ba4f-4875-aa81-15713e354158.png)
+ 
+ Agendamento da Carga Incremental (automizar processos e atualizações diárias)
+ 
+ ![agendamento carga pentaho server](https://user-images.githubusercontent.com/109915092/213876186-2989ca08-90ec-48cf-9ede-329f1851032d.png)
+
+
