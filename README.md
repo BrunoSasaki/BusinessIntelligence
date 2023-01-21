@@ -93,3 +93,6 @@ Job para carregamento das Tabelas Dimensões no DW
 Job para carregamento da Tabela Fato no DW
 
 ![Job fato](https://user-images.githubusercontent.com/109915092/213873062-3d2e0bac-3734-466d-a056-ff99a904bc64.png)
+
+![image](https://user-images.githubusercontent.com/109915092/213873157-94caed47-76ad-4e98-981e-e08aff3c628a.png)
+
