@@ -90,3 +90,6 @@ Job para carregamento das Tabelas Dimensões no DW
 
 ![job dimensoes](https://user-images.githubusercontent.com/109915092/213872917-d7b37699-653f-47bd-8f91-a1cf8b70f577.png)
 
+Job para carregamento da Tabela Fato no DW
+
+![Job fato](https://user-images.githubusercontent.com/109915092/213873062-3d2e0bac-3734-466d-a056-ff99a904bc64.png)
